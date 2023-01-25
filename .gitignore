@@ -1,0 +1,10 @@
+env/*
+dist/*
+build/*
+indian_pincode_details.egg-info/*
+*.pyc
+.vscode
+.idea
+__pycache__
+*.DS_Store
+indian_pincode_details/pincodes.json
